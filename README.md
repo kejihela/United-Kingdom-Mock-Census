@@ -23,6 +23,7 @@ The fake census was provide to make up of data generated at random using Python'
 **Task**
 According to the census, the town is a small one wedged between two considerably larger towns with which it is connected by highways. Although the town lacks a university, students live in the area and travel to adjacent cities. Once you've got a clean dataset to work with, you'll need to decide on the following:
 
+![image](https://user-images.githubusercontent.com/72225471/171496257-7256ee71-5634-4474-acad-5173f1be8f61.png)
 
  
 
